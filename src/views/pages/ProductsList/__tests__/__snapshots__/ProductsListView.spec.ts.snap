@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductsListView render correctly 1`] = `
+<div
+  class="products-list-view"
+>
+  <div
+    class="row"
+  >
+    <div
+      class="col-3"
+    >
+      <productslistfilters-stub
+        categories=""
+        class=""
+        filters="[object Object]"
+      />
+    </div>
+     
+    <div
+      class="col-9"
+    >
+      <productslist-stub
+        class=""
+        products=""
+      />
+    </div>
+  </div>
+</div>
+`;

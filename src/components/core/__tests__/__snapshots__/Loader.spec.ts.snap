@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader render correctly 1`] = `
+<div
+  class="loader"
+>
+  <b-spinner-stub
+    label="Loading..."
+    role="status"
+    tag="span"
+    type="border"
+    variant="primary"
+  />
+</div>
+`;

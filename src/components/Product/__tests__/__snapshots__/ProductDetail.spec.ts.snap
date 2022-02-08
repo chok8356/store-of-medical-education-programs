@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDetail render correctly 1`] = `
+<b-card-stub
+  bodytag="div"
+  class="overflow-hidden"
+  footertag="div"
+  headertag="div"
+  subtitletag="h6"
+  subtitletextvariant="muted"
+  tag="div"
+  titletag="h4"
+>
+  <b-row-stub
+    tag="div"
+  >
+    <b-col-stub
+      md="6"
+      tag="div"
+    >
+      <b-card-img-stub
+        src="https://media.istockphoto.com/photos/stack-of-medical-student-textbooks-picture-id921644532?k=20&m=921644532&s=612x612&w=0&h=hezQpZ0uyUmbU4QJePKK5JPNWVXD_UWwWPYSg5Rspds="
+      />
+    </b-col-stub>
+     
+    <b-col-stub
+      md="6"
+      tag="div"
+    >
+      <b-card-body-stub
+        bodytag="div"
+        subtitletag="h6"
+        subtitletextvariant="muted"
+        titletag="h4"
+      >
+        <h1
+          class="mb-4"
+        >
+          
+          Продукт 1
+        
+        </h1>
+         
+        <b-card-text-stub
+          texttag="p"
+        >
+          
+          1 Полностью новые главы по биохимии и клеточной биологии, генетике, нервной системе, костям, мышцам и коже, эндокринной и репродуктивной системам, сердечно-сосудистой системе, почечной системе, диете и питанию.
+        
+        </b-card-text-stub>
+         
+        <b-badge-stub
+          tag="span"
+          target="_self"
+          variant="info"
+        >
+          
+          Категория 2
+        
+        </b-badge-stub>
+         
+        <div
+          class="d-block mt-4"
+        >
+          <b-button-stub
+            tag="button"
+            target="_self"
+            type="button"
+            variant="primary"
+          >
+            
+            В корзину
+          
+          </b-button-stub>
+        </div>
+      </b-card-body-stub>
+    </b-col-stub>
+  </b-row-stub>
+</b-card-stub>
+`;

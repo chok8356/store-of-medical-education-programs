@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartView render correctly 1`] = `
+<div
+  class="cart-view"
+>
+  <b-button-stub
+    class="mb-4"
+    tag="button"
+    target="_self"
+    type="button"
+    variant="secondary"
+  >
+    
+    Назад в магазин
+  
+  </b-button-stub>
+   
+  <h4>
+    Товары
+  </h4>
+   
+  <b-table-stub
+    borderless="true"
+    currentpage="1"
+    emptyfilteredtext="There are no records matching your request"
+    emptytext="There are no records to show"
+    fields="name,price,quantity,actions"
+    filterdebounce="0"
+    filterfunction="[Function]"
+    filterignoredfields=""
+    filterincludedfields=""
+    fixed="true"
+    hover="true"
+    items="[object Object]"
+    labelsortasc="Click to sort Ascending"
+    labelsortclear="Click to clear sorting"
+    labelsortdesc="Click to sort Descending"
+    perpage="0"
+    selectedvariant="active"
+    selectmode="multi"
+    showempty="true"
+    sortcompare="[Function]"
+    sortcompareoptions="[object Object]"
+    sortdirection="asc"
+    striped="true"
+    value=""
+  />
+   
+  <b-button-stub
+    class="mt-4"
+    tag="button"
+    target="_self"
+    type="button"
+    variant="secondary"
+  >
+    
+    Очистить корзину
+  
+  </b-button-stub>
+</div>
+`;

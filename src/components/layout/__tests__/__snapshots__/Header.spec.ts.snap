@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header render correctly 1`] = `
+<nav
+  class="navbar navbar-dark bg-dark box-shadow"
+>
+  <div
+    class="container d-flex justify-content-between"
+  >
+    <a
+      class="navbar-brand d-flex align-items-center"
+      href="/"
+    >
+      Магазин
+    </a>
+     
+    <b-button-stub
+      tag="button"
+      target="_self"
+      type="button"
+      variant="secondary"
+    >
+      
+      В корзине: 0 (0,00 ₽)
+    
+    </b-button-stub>
+  </div>
+</nav>
+`;

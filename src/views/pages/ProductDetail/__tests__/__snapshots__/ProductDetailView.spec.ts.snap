@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductDetailView render correctly 1`] = `
+<div
+  class="product-detail-view"
+>
+  <b-button-stub
+    class="mb-4"
+    tag="button"
+    target="_self"
+    type="button"
+    variant="secondary"
+  >
+    
+    Назад в магазин
+  
+  </b-button-stub>
+   
+  <div
+    class="product-detail-view__loader"
+  />
+   
+  <productdetail-stub
+    category="[object Object]"
+    product="[object Object]"
+  />
+</div>
+`;

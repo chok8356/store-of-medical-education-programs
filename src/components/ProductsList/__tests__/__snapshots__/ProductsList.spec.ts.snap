@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductsList render correctly 1`] = `
+<div
+  class="products-list"
+>
+  <div
+    class="row m-n2"
+  >
+    <div
+      class="products-list__item col-md-4 p-2"
+    >
+      <productslistcard-stub
+        product="[object Object]"
+      />
+    </div>
+    <div
+      class="products-list__item col-md-4 p-2"
+    >
+      <productslistcard-stub
+        product="[object Object]"
+      />
+    </div>
+    <div
+      class="products-list__item col-md-4 p-2"
+    >
+      <productslistcard-stub
+        product="[object Object]"
+      />
+    </div>
+  </div>
+</div>
+`;
