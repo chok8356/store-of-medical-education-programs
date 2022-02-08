@@ -9,7 +9,8 @@
     "test:e2e": "vue-cli-service test:e2e",
     "lint": "npm run lint:code && npm run lint:syles",
     "lint:code": "vue-cli-service lint --fix",
-    "lint:syles": "stylelint **/*.{vue,scss} --fix"
+    "lint:syles": "stylelint **/*.{vue,scss} --fix",
+    "deploy": "deploy.sh"
   },
   "dependencies": {
     "core-js": "^3.6.5",
